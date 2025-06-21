@@ -319,12 +319,12 @@ function validarRUC(valor) {
 ## 📸 Capturas de Pantalla
 
 ### Interfaz Principal
-![Interfaz Principal](https://via.placeholder.com/800x600/f9f9f9/333333?text=Interfaz+Principal+del+Sistema)
+![Interfaz Principal](file:///C:/Users/usuario/Desktop/SOFTWWARE/WEB%20XML%20APPLICATIONS/entrega/project/index.html)
 
 *Vista principal mostrando el formulario de cliente, selección de productos y gráfico de ventas*
 
 ### Factura PDF Generada
-![Factura PDF](https://via.placeholder.com/600x800/ffffff/000000?text=Factura+PDF+con+Informaci%C3%B3n+del+SRI)
+![Factura PDF](file:///C:/Users/usuario/Desktop/SOFTWWARE/WEB%20XML%20APPLICATIONS/factura_1750518369086.pdf)
 
 *Ejemplo de factura PDF con número de autorización, clave de acceso y formato oficial*
 
@@ -421,7 +421,6 @@ function validarRUC(valor) {
 
 ### Comunidad
 - **Discord**: [Servidor de la comunidad](https://discord.gg/cia-hermanos)
-- **Telegram**: [@cia_hermanos_dev](https://t.me/cia_hermanos_dev)
 
 ## 📄 Licencia
 
