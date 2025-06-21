@@ -21,7 +21,7 @@
 
 ## 🚀 Demo en Vivo
 
-![Sistema CIA-Hermanos](file:///C:/Users/usuario/Desktop/SOFTWWARE/WEB%20XML%20APPLICATIONS/entrega/project/index.html)
+![Sistema CIA-Hermanos](https://ca.bbcollab.com/collab/ui/session/join/23d2bc7e095a463d8c37d1ef96719809)
 
 *Captura de pantalla del sistema principal mostrando el formulario de facturación y el gráfico de ventas*
 
