@@ -21,7 +21,7 @@
 
 ## 🚀 Demo en Vivo
 
-![Sistema CIA-Hermanos](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Sistema+de+Facturaci%C3%B3n+CIA-Hermanos)
+![Sistema CIA-Hermanos](file:///C:/Users/usuario/Desktop/SOFTWWARE/WEB%20XML%20APPLICATIONS/entrega/project/index.html)
 
 *Captura de pantalla del sistema principal mostrando el formulario de facturación y el gráfico de ventas*
 
